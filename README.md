@@ -5,12 +5,10 @@ I am **Will**, a full-stack engineer. My love for technology is stronger than th
 <img align="right" src="https://github.com/WowGim/WowGim/blob/main/hello_world_typing.gif" height="200" width="300" margin-right="200"/>
 
 ### About Me:
-- 👨🏽‍💻 I’m currently working on COMPAS3 AI;
 - 🚀 I'm proficient in web spider and web developer in Python;
 - 🌱 I am learning about machine learning;
 - 🔭 I am also an electrical engineer;
 - 💬 Welcome to communicate with me about technology；
-- 📮 Reach out to me: zw.mg@outlook.com.
 
 ---
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WowGim&size_weight=0.5&count_weight=0.5) -->
