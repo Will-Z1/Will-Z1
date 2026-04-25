@@ -13,7 +13,7 @@ I am **Will**, a full-stack engineer. My love for technology is stronger than th
 ---
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Will-Z1&size_weight=0.5&count_weight=0.5) -->
 <!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Will-Z1&layout=donut) -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will-Z1&layout=donut" width="400" height="240" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will-Z1&layout=donut" width="400" height="220" />
 
 ### 🛠️ Languages and Tools
 
