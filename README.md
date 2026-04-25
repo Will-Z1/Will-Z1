@@ -2,7 +2,7 @@
 I am **Will**, a full-stack engineer. My love for technology is stronger than the throbbing of a girl's love for love,and I hope to keep it this way.
 
 <!-- https://media1.giphy.com/media/MeJgB3yMMwIaHmKD4z/200.webp?cid=790b7611nlh08w2499zrlukmnf5h74owx0ay46julkwv4bdi&ep=v1_gifs_search&rid=200.webp&ct=g -->
-<img align="right" src="https://github.com/Will-Z1/Will-Z1/blob/main/hello_world_typing.gif" height="200" width="300" margin-right="200"/>
+<img align="right" src="https://github.com/Will-Z1/Will-Z1/blob/main/hello_world_typing.gif" height="190" width="300" margin-right="200"/>
 
 ### About Me:
 - 🚀 I'm proficient in web spider and web developer in Python;
@@ -13,7 +13,7 @@ I am **Will**, a full-stack engineer. My love for technology is stronger than th
 ---
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Will-Z1&size_weight=0.5&count_weight=0.5) -->
 <!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Will-Z1&layout=donut) -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will-Z1&layout=donut" width="400" height="220" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will-Z1&layout=donut" width="400" height="240" />
 
 ### 🛠️ Languages and Tools
 
